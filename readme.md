@@ -1,0 +1,3 @@
+docling failures: 
+- headings
+- bullets
