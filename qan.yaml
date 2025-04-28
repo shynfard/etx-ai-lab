@@ -5,3 +5,136 @@ document_outline: |
   This is a collection of questions and answers about Wetlands Mammals.
   The questions are designed to test the knowledge of the reader about Wetlands Mammals.
   The questions cover various aspects of Wetlands Mammals, including their habitat, behavior, and conservation status.
+seed_examples:
+- context: |
+    #### basics
+
+    The red fox has orangish-red fur on its back, sides and head, and white fur under its neck and on its chest. It has a long bushy tail tipped in white, prominent pointed black ears and black legs and feet.  It weighs 7-15 lbs., is 22'-27' long (w/o tail) and has a shoulder ht. of 15'-16'.
+
+    They are solitary animals with home ranges that vary in size depending on the quality of the habitat. In good areas ranges may be 2-5 sq. miles; in poorer habitats ranges are larger, 8-20 sq. miles. During parts of the year adjacent ranges may overlap somewhat, but parts may be regularly defended. Ranges are occupied by an adult male and one or two adult females with their young. Animals remain in the same home range for life.
+
+    - They live an average of 3 yrs. in the wild and 10 to 12 years in captivity.
+    - Their top speed is about 30 mph, and they can leap as high as 6 ft.
+    - Most red foxes that are taken by natural predators are young pups. Adult red foxes may also be attacked by coyotes, wolves, or other predators, but this is rarely in order to eat them. The most significant predators on red foxes are humans.
+
+    #### habitat
+
+    The red fox makes its home along the edges of forests, in tilled fields and near marshes. They prefer habitats with a diversity of vegetation types.
+
+    Except for breeding females, the fox doesn't usually use a den. Sometimes it will sleep in the open, wrapping its bushy tail around its nose to stay warm. When it does use a den, it will usually find an abandoned rabbit or marmot den instead of making its own.
+
+  questions_and_answers:
+  - question: |
+      what are the main predators of red foxes?
+    answer: |
+      Adult red foxes may also be attacked by coyotes, wolves, or other predators, but this is rarely in order to eat them. The most significant predators on red foxes are humans.
+  - question: |
+      What is the average lifespan of red foxes in the wild and in captivity?
+    answer: |
+      In good areas ranges may be 2-5 sq. miles; in poorer habitats ranges are larger, 8-20 sq. miles. During parts of the year adjacent ranges may overlap somewhat, but parts may be regularly defended. Ranges are occupied by an adult male and one or two adult females with their young. Animals remain in the same home range for life.
+  - question: |
+      how are the red foxes adapted to their habitat?
+    answer: |
+      They sleep in the open, wrapping its bushy tail around its nose to stay warm. When it does use a den, it will usually find an abandoned rabbit or marmot den instead of making its own.
+- context: |
+    #### food
+
+    The red fox is an omnivore and its diet includes fruits, berries and grasses. It also eats birds and small mammals like squirrels, rabbits and mice and invertebrates like crickets, caterpillars, grasshoppers, beetles and crayfish. They also eat carrion. Red foxes store extra food under leaves, snow or dirt and are very good at relocating these caches.
+
+    Foxes are quick, skillful hunters and can easily catch a dodging rabbit. The fox can also creep silently toward a bird, rush up and pounce on it. They have a characteristic manner of hunting mice. The fox stands motionless, listening and watching intently for a mouse it has detected. It then leaps high and brings the forelimbs straight down forcibly to pin the mouse to the ground. They eat between 1 and 2 lbs. of food each day.
+
+    #### breeding
+
+    The red fox is sexually mature at 10 months, mates annually, January through March with a gestation period of 52 days.  The average litter size is 5, weaned in 56-70 days.
+
+    The female will prepare multiple dens right after mating, using the extra dens if the original den is disturbed. A fox den may be underground, in a cave, among rocks, or in a hollow log or tree. Foxes will dig their own dens or modify burrows abandoned by other animals. An underground den may be as long as 75 feet and have several entrances. A main tunnel leads to several chambers that the animals use for nests and for storing food. Two pairs of red foxes may share one burrow and the same den is often used over a number of generations.
+
+    Young remain in the den for 4 to 5 weeks, where they are cared for and nursed by their mother. Males and females, and sometimes their older offspring, cooperate to care for the pups. The male brings the female food during the first few weeks.
+
+    The kits start playing outside the den when they are about a month old. The mother begins feeding her kits regurgitated food, but eventually she will bring them live prey to "play" with and eat. Playing with live prey helps the young kits develop the skills they will need for hunting. The young remain with their parents at least until the fall of the year they were born in and will sometimes remain longer, especially females. They settle in areas as nearby as 6 miles and as far away as almost 250.
+
+  questions_and_answers:
+  - question: |
+      What is the the diet of red foxes?
+    answer: |
+      The red fox is an omnivore and its diet includes fruits, berries and grasses. It also eats birds and small mammals like squirrels, rabbits and mice and invertebrates like crickets, caterpillars, grasshoppers, beetles and crayfish.
+  - question: |
+      How long the young red foxes remain in the den?
+    answer: |
+      Young remain in the den for 4 to 5 weeks, where they are cared for and nursed by their mother.
+  - question: |
+      How learn the kits of red foxes to hunt?
+    answer: |
+      Playing with live prey helps the young kits develop the skills they will need for hunting.
+- context: |
+    #### basics
+
+    Their color and weight vary with habitat and region.  Their wt. is 12-31 lbs. and males are usually heavier than females by 10 to 30%. Raccoons are stocky in build and their Color ranges from grey to reddish brown to buff above, and black or grayish below. The most prominent characteristics are the black mask outlined in white and the bushy tail with 4-10 black or brown rings.  Their tails comprise about 42%-52% of their total length. The ears are small and the forepaws resemble slender human hands and make the raccoon unusually dexterous. Both their forepaws and hindpaws have five toes.
+
+    - Their home range is around 160 acres for males and 100 for females. Home ranges are generally not exclusive, although some level of territoriality has been recorded in western prairies where raccoon densities are low, as is resource availability. Range diameters are typically from 0.6 to 2 miles, but can be up to 6 miles in western areas.
+    - Their common gait is a shuffle like walk but can reach speeds of 15 mph. Raccoons don't travel any farther than necessary, traveling only far enough to meet the demands of their appetites.  They usually travel between 0.5 and 1.5 mi. per night, with males traveling slightly farther during fall, winter, and spring, and females traveling longer during summer, when foraging with and for their young.
+    - Raccoons may live up to 16 years in the wild, but most don't make it past their second year. If they survive their youth, raccoons may live an average of 5 years in the wild. The primary causes of death are humans, (hunting, trapping, cars), and malnutrition.
+    - Raccoons escape many predators by remaining inactive during the day in a den. While active they remain alert and can be aggressive. They are preyed on by large predators such as coyotes, wolves, large hawks and owls. Their young may be taken by snakes as well.
+    - Population densities vary widely with habitat type. In wet, lowland areas, such as marshes, intertidal areas, and flood plains, densities averaged 5 per acre. Densities are generally less than half that in agricultural areas and hardwood forests, higher than that in suburban areas. Rabies may substantially impact population densities, with populations doubling in density during times of low rabies incidence.
+  questions_and_answers:
+  - question: |
+      How home ranges of raccoons are organized?
+    answer: |
+      Their home range is around 160 acres for males and 100 for females. Home ranges are generally not exclusive, although some level of territoriality has been recorded in western prairies where raccoon densities are low, as is resource availability.
+  - question: |
+      What is the lifespan of raccoons in the wild?
+    answer: |
+      Raccoons may live up to 16 years in the wild, but most don't make it past their second year. If they survive their youth, raccoons may live an average of 5 years in the wild.
+  - question: |
+      What is the density of raccoons of different habitats?
+    answer: |
+      Population densities vary widely with habitat type. In wet, lowland areas, such as marshes, intertidal areas, and flood plains, densities averaged 5 per acre. Densities are generally less than half that in agricultural areas and hardwood forests, higher than that in suburban areas.
+- context: |
+    #### basics
+
+    The striped skunk weighs 4-9 lbs with a total length of 21-31'. Their fur is black with a white stripe that begins as a triangular shape on the top of the head, forks into two stripes that travel down the sides of the back, and usually merges again near the base of the tail. Another white stripe runs from the base of the snout between the eyes and ends on the forehead. Stripe width and length vary with each individual.  The tail can be striped but more often it is composed of both black and white hairs intermixed.
+
+    - The striped skunk is about the size of a domestic cat, with a small head, small ears, short legs, a long, fluffy tail and feet with five partially webbed toes. Claws are longer on the front feet to aid in digging.
+    - In the wild skunks may live to be 2 to 3 years old. Up to 90% of skunks die in their first winter from predation, disease or starvation. In captivity they have been known to survive for up to 15 years.  Due to their offensive odor skunks are rarely preyed on by other mammals but occasionally by coyotes and badgers. They are eaten primarily by large birds that lack a strong sense of smell, such as great-horned owls and red-tailed hawks.
+
+    #### habitat
+
+    The skunk prefers the desert, woodlands, grassy plains and suburbs and open areas with a mixture of habitats such as woods, grasslands, and agricultural clearings and are not usually found further than two miles from a water source. They are also often found in suburban areas because of the abundance of buildings that provide them with cover.
+  questions_and_answers:
+  - question: |
+      What is the mortality rate of striped skunks in the wild?
+    answer: |
+      Up to 90% of skunks die in their first winter from predation, disease or starvation. In captivity they have been known to survive for up to 15 years.
+  - question: |
+      What is the habitat of striped skunks?
+    answer: |
+      The skunk prefers the desert, woodlands, grassy plains and suburbs and open areas with a mixture of habitats such as woods, grasslands, and agricultural clearings and are not usually found further than two miles from a water source.
+  - question: |
+      Why skunks are rarely preyed on by other mammals?
+    answer: |
+      Due to their offensive odor skunks are rarely preyed on by other mammals but occasionally by coyotes and badgers. They are eaten primarily by large birds that lack a strong sense of smell, such as great-horned owls and red-tailed hawks.
+- context: |
+    #### key facts
+
+    - Weight: 6-16 oz. Length w/o tail: 8-15 inches. Males are considerably larger than females.
+    - Appearance: The weasel has a long slender body, short legs and a long bushy tail.  It's cinnamon brown with yellow-tinged white under parts.
+    - Diet: Small mammals are the food of choice-mice, rats, voles, squirrels, chipmunks, shrews, moles and rabbits. Less common foods: birds, bird eggs, snakes, lizards, frogs, earthworms, insects, fruits and berries. Malefemale size difference helps them reduce reliance on the same prey items.
+    - Color Changer: They shed their fur to change from brown to white, summer to winter, then back again, triggered by day length. They evolved as a benefit to warmth (hollow white hair), but also aids in camouflage.
+    - Behavior: Ounce for ounce, weasels are among the world's most impressive predators. They resemble hyperactive tubes of muscle ever alert to pounce upon an unsuspecting small mammal. They are amazingly strong for their size, able to take prey more than three times their own weight. They kill with a quick bite to the base of the skull.
+    - Shelter: Hollow logs, tree stumps, rock piles or under barns. Sometimes instead of building a new nest, they take over the burrow of a prey mammal, lining their nest chambers with the victim's fur.
+    - Predators: Large owls, coyotes or large snakes are their predators. They are especially vulnerable when they are young.
+    - Ecological Role: Weasels will occasionally take birds but their impact is less than from other carnivores. Long-tailed weasels help to control the of rodent and rabbit populations.
+
+  questions_and_answers:
+  - question: |
+      WHat is the typical weight and length of a weasel?
+    answer: |
+      Weight: 6-16 oz. Length w/o tail: 8-15 inches. Males are considerably larger than females.
+  - question: |
+      what is the main color of long-tailed weasels?
+    answer: |
+      It's cinnamon brown with yellow-tinged white under parts. They shed their fur to change from brown to white, summer to winter, then back again, triggered by day length.
+  - question: |
+      What is the diet of long-tailed weasels?
+    answer: |
+      Small mammals are the food of choice-mice, rats, voles, squirrels, chipmunks, shrews, moles and rabbits. Less common foods: birds, bird eggs, snakes, lizards, frogs, earthworms, insects, fruits and berries. Malefemale size difference helps them reduce reliance on the same prey items.
