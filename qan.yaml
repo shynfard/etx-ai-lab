@@ -138,9 +138,10 @@ seed_examples:
       What is the diet of long-tailed weasels?
     answer: |
       Small mammals are the food of choice-mice, rats, voles, squirrels, chipmunks, shrews, moles and rabbits. Less common foods: birds, bird eggs, snakes, lizards, frogs, earthworms, insects, fruits and berries. Malefemale size difference helps them reduce reliance on the same prey items.
-- context: " The striped skunk is about the size of a domestic cat, with a small head, small ears, short legs, a long, fluffy tail and feet with five partially webbed toes. Claws are longer on the front feet to aid in digging.
+- context: |
+    The striped skunk is about the size of a domestic cat, with a small head, small ears, short legs, a long, fluffy tail and feet with five partially webbed toes. Claws are longer on the front feet to aid in digging.
 
-     In the wild skunks may live to be 2 to 3 years old. Up to 90% of skunks die in their first winter from predation, disease or starvation. In captivity they have been known to survive for up to 15 years.  Due to their offensive odor skunks are rarely preyed on by other mammals but occasionally by coyotes and badgers. They are eaten primarily by large birds that lack a strong sense of smell, such as great-horned owls and red-tailed hawks."
+    In the wild skunks may live to be 2 to 3 years old. Up to 90% of skunks die in their first winter from predation, disease or starvation. In captivity they have been known to survive for up to 15 years.  Due to their offensive odor skunks are rarely preyed on by other mammals but occasionally by coyotes and badgers. They are eaten primarily by large birds that lack a strong sense of smell, such as great-horned owls and red-tailed hawks.
   questions_and_answers:
   - question: What is the typical lifespan of a skunk in the wild?
     answer: The striped skunk may live up to 2 to 3 years in the wild.
@@ -157,21 +158,22 @@ seed_examples:
     answer: |-
       A significant number of skunks die in their first winter due to predation,
       disease, or starvation.
-- context: " Weight: 6-16 oz. Length w/o tail: 8-15 inches. Males are considerably larger than females.
+- context: |
+    Weight: 6-16 oz. Length w/o tail: 8-15 inches. Males are considerably larger than females.
 
-     Appearance: The weasel has a long slender body, short legs and a long bushy tail.  It's cinnamon brown with yellow-tinged white under parts.
+    Appearance: The weasel has a long slender body, short legs and a long bushy tail.  It's cinnamon brown with yellow-tinged white under parts.
 
-     Diet: Small mammals are the food of choice-mice, rats, voles, squirrels, chipmunks, shrews, moles and rabbits. Less common foods: birds, bird eggs, snakes, lizards, frogs, earthworms, insects, fruits and berries. Malefemale size difference helps them reduce reliance on the same prey items.
+    Diet: Small mammals are the food of choice-mice, rats, voles, squirrels, chipmunks, shrews, moles and rabbits. Less common foods: birds, bird eggs, snakes, lizards, frogs, earthworms, insects, fruits and berries. Malefemale size difference helps them reduce reliance on the same prey items.
 
-     Color Changer: They shed their fur to change from brown to white, summer to winter, then back again, triggered by day length. They evolved as a benefit to warmth (hollow white hair), but also aids in camouflage.
+    Color Changer: They shed their fur to change from brown to white, summer to winter, then back again, triggered by day length. They evolved as a benefit to warmth (hollow white hair), but also aids in camouflage.
 
-     Behavior: Ounce for ounce, weasels are among the world's most impressive predators. They resemble hyperactive tubes of muscle ever alert to pounce upon an unsuspecting small mammal. They are amazingly strong for their size, able to take prey more than three times their own weight. They kill with a quick bite to the base of the skull.
+    Behavior: Ounce for ounce, weasels are among the world's most impressive predators. They resemble hyperactive tubes of muscle ever alert to pounce upon an unsuspecting small mammal. They are amazingly strong for their size, able to take prey more than three times their own weight. They kill with a quick bite to the base of the skull.
 
-     Shelter: Hollow logs, tree stumps, rock piles or under barns. Sometimes instead of building a new nest, they take over the burrow of a prey mammal, lining their nest chambers with the victim's fur.
+    Shelter: Hollow logs, tree stumps, rock piles or under barns. Sometimes instead of building a new nest, they take over the burrow of a prey mammal, lining their nest chambers with the victim's fur.
 
-     Predators: Large owls, coyotes or large snakes are their predators. They are especially vulnerable when they are young.
+    Predators: Large owls, coyotes or large snakes are their predators. They are especially vulnerable when they are young.
 
-     Ecological Role: Weasels will occasionally take birds but their impact is less than from other carnivores. Long-tailed weasels help to control the of rodent and rabbit populations."
+    Ecological Role: Weasels will occasionally take birds but their impact is less than from other carnivores. Long-tailed weasels help to control the of rodent and rabbit populations.
   questions_and_answers:
   - question: What is the average weight of a weasel?
     answer: The average weight of a weasel is between 6-16 oz.
@@ -187,19 +189,20 @@ seed_examples:
       The size difference between male and female weasels helps them reduce reliance
       on the same prey items, contributing to a more diverse diet and potentially
       reducing competition for food resources.
-- context: " Weight: 12-31 lbs. Ave. Length: 16 in. plus tail of nearly same length.
+- context: |
+    Weight: 12-31 lbs. Ave. Length: 16 in. plus tail of nearly same length.
 
-     Habitat: It is a common wetlands resident, using hollow trees and logs for homes and ground burrows for raising young or for sleeping.
+    Habitat: It is a common wetlands resident, using hollow trees and logs for homes and ground burrows for raising young or for sleeping.
 
-     Diet: Omnivorous and opportunistic, they feed on fruit, seeds, nuts, grubs, crickets and other insects, crayfish, frogs, fish, small mammals, birds' eggs and nestlings. They consume more invertebrates than vertebrates.
+    Diet: Omnivorous and opportunistic, they feed on fruit, seeds, nuts, grubs, crickets and other insects, crayfish, frogs, fish, small mammals, birds' eggs and nestlings. They consume more invertebrates than vertebrates.
 
-     Feeding: The raccoon picks up food with its front paws before putting it in its mouth. They often seem to be washing their food as they feel for matter that should be rejected; wetting of the paws enhances the tactile sense.
+    Feeding: The raccoon picks up food with its front paws before putting it in its mouth. They often seem to be washing their food as they feel for matter that should be rejected; wetting of the paws enhances the tactile sense.
 
-     Activity\\Senses: They have a good hearing and night vision and are most active at night. They are good climbers and swimmers.
+    Activity\\Senses: They have a good hearing and night vision and are most active at night. They are good climbers and swimmers.
 
-     Predators: Their predators include coyotes, wolves, large hawks and owls. Young are also taken by snakes.
+    Predators: Their predators include coyotes, wolves, large hawks and owls. Young are also taken by snakes.
 
-     Avian Conflicts: Raccoons and birds have interacted for millennia without serious impact on either. What generally determines predator impact on desired species such as birds is access and alternatives. Weather, climate, restricted habitat and/or the absence of other predator food items can shift the advantage to one or the other."
+    Avian Conflicts: Raccoons and birds have interacted for millennia without serious impact on either. What generally determines predator impact on desired species such as birds is access and alternatives. Weather, climate, restricted habitat and/or the absence of other predator food items can shift the advantage to one or the other.
   questions_and_answers:
   - question: What is the average length of a raccoon?
     answer: |-
@@ -242,15 +245,16 @@ seed_examples:
       Female kits might remain with their parents longer than male kits because they
       are more likely to settle in areas nearby, while male kits may range farther
       away.
-- context: " Weight: 1 16 -1 4 oz. Total Length: 3.75-4.75 in. (Tail: 1.25-2 in.)
+- context: |
+    Weight: 1 16 -1 4 oz. Total Length: 3.75-4.75 in. (Tail: 1.25-2 in.)
 
-     World Record: Shrews are the world's smallest mammals. The vagrant shrew weighs about the same as a quarter.
+    World Record: Shrews are the world's smallest mammals. The vagrant shrew weighs about the same as a quarter.
 
-     Lifespan/Senses: They live about 16 months and most do not live to breed a 2nd year. Their senses are touch, hearing and smell…eyes are tiny.
+    Lifespan/Senses: They live about 16 months and most do not live to breed a 2nd year. Their senses are touch, hearing and smell…eyes are tiny.
 
-     Habitat/Predators: Wetlands are perfect for shrews-lots of insects to eat and places to hide. They stay close to water, foraging under litter on moist surfaces, underground, and in moist accumulations of dead plant material; use vole runways. Predators include snakes and barn owls.
+    Habitat/Predators: Wetlands are perfect for shrews-lots of insects to eat and places to hide. They stay close to water, foraging under litter on moist surfaces, underground, and in moist accumulations of dead plant material; use vole runways. Predators include snakes and barn owls.
 
-     Diet: They eat mostly invertebrates-insects and their larvae, caterpillars, centipedes, worms, snails, slugs, and spiders. Its small body causes it to lose heat fast, and it has a metabolism to keep up: It must eat something every 3 hours-the same or more than its own weight each day!-and its heart beats up to 1,000 times per minute."
+    Diet: They eat mostly invertebrates-insects and their larvae, caterpillars, centipedes, worms, snails, slugs, and spiders. Its small body causes it to lose heat fast, and it has a metabolism to keep up: It must eat something every 3 hours-the same or more than its own weight each day!-and its heart beats up to 1,000 times per minute.
   questions_and_answers:
   - question: What is the average lifespan of a shrew?
     answer: About 16 months
@@ -265,3 +269,9 @@ seed_examples:
     answer: |-
       The shrew would likely suffer significant health consequences, as it must eat
       something every 3 hours to maintain its high metabolism and prevent starvation.
+
+document:
+  repo: https://github.com/shynfard/etx-ai-lab.git
+  commit: 96f98f4827eef98241405e25a8e17f90dfb56e9d
+  patterns:
+  - UT_WingsWater_WetlandsMammals_Jan19.pdf
